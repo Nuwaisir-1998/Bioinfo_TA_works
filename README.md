@@ -2,11 +2,12 @@
 
 ## Neighbor Joining Algorithm (NJ)
 
-# Problem:
+## Problem:
 Reconstruct the evolutionary tree given the distance matrix.
 
-# How to Run The Code:
-Go to the NJ folder. Open a terminal there. Then run the follwing command.
+## How to Run The Code:
+Go to the NJ folder. Put the input in **in.txt** file. The first line of the input file denotes the number of rows and columns. Then put the matrix.
+Open a terminal there. Then run the follwing command.
 ```
 ./main.sh
 ```
