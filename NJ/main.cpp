@@ -59,11 +59,10 @@ struct Tree{
     void print(){
         for(auto ele : adj){
             if(ele.second.empty()) continue;
-            cout << ele.first << ": ";
+            // cout << ele.first << ": ";
             for(auto v : ele.second){
-                cout << v << " ";
+                cout << ele.first << " " << v << endl;
             }
-            cout << endl;
         }
     }
 };
