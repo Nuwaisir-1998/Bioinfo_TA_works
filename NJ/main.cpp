@@ -4,7 +4,7 @@ using namespace std;
 
 struct D_mat{
     map<pair<int, int>, double> D_map;
-    
+
     void add_edge(int u, int v, double weight){
         D_map[{min(u, v), max(u, v)}] = weight;
     }
@@ -49,7 +49,7 @@ struct Tree{
     unordered_map<int, vt<int>> adj;
     int n;
     D_mat distance_matrix;
-    
+
     void add_edge(int u, int v, int length){
         adj[u].push_back(v);
         adj[v].push_back(u);
@@ -134,6 +134,9 @@ Tree Neighbor_joining(D_mat & D, int n){
         return tree;
     }
     D_mat D_star = construct_NJ_matrix(D, n);
+    cout<<"Each Step"<<endl;
+    cout<<"D_Mat"<<endl;
+    D.print();
     pair<int,int> ij = find_min(D_star);
     int i = ij.first;
     int j = ij.second;
@@ -179,6 +182,9 @@ Tree Neighbor_joining(D_mat & D, int n){
     //     cout << ele.first.first << " " << ele.first.second << endl;
     // }
     Tree T = Neighbor_joining(D, n-1);
+    cout<<"Each Step"<<endl;
+    cout<<"Tree"<<endl;
+    T.print();
     T.add_edge(m, i, limb_length_i);
     T.add_edge(m, j, limb_length_j);
     // cout << "Adding : " << m << " " << i << endl;
@@ -199,6 +205,7 @@ void solve(){
         }
     }
     Tree tree = Neighbor_joining(D, n);
+    cout<<"Final Step"<<endl;
     tree.print();
 }
 
