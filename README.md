@@ -17,13 +17,13 @@ chmod +x main.sh
 ```
 
 
-Input /Ouput:
-Input:
-4
-0 13 21 22
-13 0 12 13
-21 12 0 13
-22 13 13 0
+Input /Ouput:<br/>
+Input:<br/>
+4<br/>
+0 13 21 22<br/>
+13 0 12 13<br/>
+21 12 0 13<br/>
+22 13 13 0<br/>
 The first line denotes the number of nodes(x) in the tree.The next x lines indicate the distance matrix.
 step 1:
 Distance matrix
