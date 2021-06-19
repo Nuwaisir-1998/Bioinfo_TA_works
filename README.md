@@ -12,7 +12,7 @@ Reconstruct the evolutionary tree given the distance matrix.
 
 ### How to Run The Code:
 
-Go to the NJ folder. Put the input in **in.txt** file. The first line of the input file denotes the number of rows and columns of the distance matrix. Each of the next *n* lines contains *n* space seperated numbers denoting an element of the distance matrix.
+Go to the NJ folder. Put the input in **in.txt** file. The first line of the input file denotes the number of rows and columns of the distance matrix. Each of the next $n$ lines contains $n$ space seperated numbers denoting an element of the distance matrix.
 Open a terminal there. Then run the follwing command.
 ```
 ./main.sh
