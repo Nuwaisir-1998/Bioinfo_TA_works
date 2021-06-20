@@ -171,7 +171,8 @@ Cost:
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122539251-35477e80-d049-11eb-85cb-1fe90feb7e82.png)
+![image](https://user-images.githubusercontent.com/40664860/122669351-b97f3a80-d1de-11eb-8ca2-c55b064ab312.png)
+
 
 Distance Matrix:<br/>
 ```
