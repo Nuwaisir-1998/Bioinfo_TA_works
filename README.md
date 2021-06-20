@@ -148,7 +148,8 @@ Cost:
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122539016-f4e80080-d048-11eb-94a9-9c6ab5f5c2b5.png)
+![image](https://user-images.githubusercontent.com/40664860/122668556-7622cd00-d1da-11eb-9fc4-7e7b650e7c5f.png)
+
 
 Tree Matrix:
 ```
@@ -190,7 +191,8 @@ Cost:
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122668502-30fe9b00-d1da-11eb-824c-761928bc6f26.png)
+![image](https://user-images.githubusercontent.com/40664860/122668761-78d1f200-d1db-11eb-88ff-51f9ee4bc17c.png)
+
 
 
 Tree Matrix:
@@ -209,7 +211,7 @@ Cost:<br/>
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122539721-b69f1100-d049-11eb-9897-f87ea172a442.png)
+![image](https://user-images.githubusercontent.com/40664860/122669170-e97a0e00-d1dd-11eb-80fd-4a7f6c4c963d.png)
 
 Tree Matrix:<br/>
 ```
@@ -225,7 +227,7 @@ Cost:
 ```
 Tree:<br/>
 
-![image](https://user-images.githubusercontent.com/40664860/122540094-1b5a6b80-d04a-11eb-92ab-cdbcbfa37d29.png)
+
 
 Tree matrix:
 ```
@@ -239,4 +241,5 @@ Cost:
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122540291-4f359100-d04a-11eb-85d5-33e5a4429e14.png)
+![image](https://user-images.githubusercontent.com/40664860/122669278-65745600-d1de-11eb-8810-0251699815ff.png)
+
