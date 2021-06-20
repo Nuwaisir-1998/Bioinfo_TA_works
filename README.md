@@ -190,7 +190,8 @@ Cost:
 ```
 Tree:
 
-![image](https://user-images.githubusercontent.com/40664860/122539425-6aec6780-d049-11eb-98d5-f319f3b5f3bb.png)
+![image](https://user-images.githubusercontent.com/40664860/122668502-30fe9b00-d1da-11eb-824c-761928bc6f26.png)
+
 
 Tree Matrix:
 ```
